@@ -1,0 +1,18 @@
+body {
+font-family:'Times New Roman', Times, serif;
+font-size: large;
+}
+
+
+
+a:hover, a:active {
+    color: rgb(22, 14, 59);
+}
+
+
+table, tr, th, td, caption {
+    border: 1px solid rgb(12, 11, 11);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem; 
+}
